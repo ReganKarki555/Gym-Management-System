@@ -1,7 +1,4 @@
 public class GymMember {
-    
-}
-public class GymMember {
     protected int id;
     protected String name;
     protected String location;
